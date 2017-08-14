@@ -10,6 +10,8 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
+This is a desctiption.
+
 ## How to contribute
 
-
+This is a desctiption how to contribute.
