@@ -19,3 +19,5 @@ This Blablablabla is a desctiption how to contribute.
 ## How to contribute 2
 
 This is a desctiption how to contribute. Blablablabla
+
+### Copyright notice
