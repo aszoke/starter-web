@@ -2,7 +2,7 @@
 
 This repository is a great repository for showing how Git and GitHub work
 
-Yes this is a repo.
+Yes this is a repo and not just a repo...
 
 ## Purpose
 
