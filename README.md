@@ -27,3 +27,5 @@ This is some text.
 Some more text.
 
 This is for stash.
+
+For more stash.
