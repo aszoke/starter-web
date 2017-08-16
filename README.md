@@ -25,3 +25,5 @@ This is a desctiption how to contribute. Blablablabla
 This is some text.
 
 Some more text.
+
+This is for stash.
