@@ -16,6 +16,10 @@ This is a simple web project.
 
 ## How to Contribute
 
+Some modifications.
+
+Other modification.
+
 ## Copyright
 
 Some copyright text.
