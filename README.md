@@ -20,3 +20,4 @@ This is a simple web project.
 
 Some copyright text.
 
+Some more text.
