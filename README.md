@@ -24,4 +24,4 @@ Other modification.
 
 Some copyright text.
 
-Even more text.
+Even some more text.
